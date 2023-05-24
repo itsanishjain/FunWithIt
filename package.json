@@ -9,6 +9,9 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@apollo/client": "^3.7.14",
+    "@apollo/react-hooks": "^4.0.0",
+    "@react-native-community/hooks": "^3.0.0",
     "expo": "~48.0.15",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
